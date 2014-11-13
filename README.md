@@ -1,12 +1,12 @@
 jailbreak-detector
 ==================
 
-**Lightweight AIR tool that tells you if an iDevice is jailbroken or if and Android device is rooted**
+Lightweight AIR tool that tells you if an iDevice is jailbroken or if and Android device is rooted
 
-This is not an ANE, there's no native code involved here. 
+**This is not an ANE, there's no native code involved here. **
 
 
-iDevices jailbreak comes with the installation of Cydia most of the time. 
+iDevices jailbreak comes with the installation of **Cydia** most of the time. 
 This detection relies on that, looking for Cydia files on the drive. 
 It's not perfect but it works in many cases.
 
