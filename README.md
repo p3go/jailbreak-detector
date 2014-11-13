@@ -1,9 +1,9 @@
 jailbreak-detector
 ==================
 
-Lightweight AIR tool that tells you if an iDevice is jailbroken or if and Android device is rooted
+Lightweight AIR tool that tells you if an iDevice is jailbroken or if an Android device is rooted
 
-**This is not an ANE, there's no native code involved here. **
+**This is not an ANE, there's no native code involved here.**
 
 
 iDevices jailbreak comes with the installation of **Cydia** most of the time. 
@@ -32,10 +32,11 @@ If you want to check both at once for a multiplatform app, call this:
 var isDeviceLegit : Boolean = JailbreakDetector.isDeviceLegit(); 
 ```
 
+Tested with success on a jailbroken iPad2, a legit iPad3, a rooted Nexus 5, and a legit Nexus 4.
 Let me know about bugs and cool stuff to add, and fell free to improve! 
 
-website: http://www.babeuf.net
-twitter: https://twitter.com/_baabeuf
+> website: http://www.babeuf.net
+> twitter: https://twitter.com/_baabeuf
 
 
 

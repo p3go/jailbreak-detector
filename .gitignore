@@ -2,6 +2,7 @@ bat
 bin
 cert
 icons
+dist
 obj
 application.xml
 JailbreakDetection.as3proj
