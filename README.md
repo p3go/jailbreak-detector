@@ -33,9 +33,11 @@ var isDeviceLegit : Boolean = JailbreakDetector.isDeviceLegit();
 ```
 
 Tested with success on a jailbroken iPad2, a legit iPad3, a rooted Nexus 5, and a legit Nexus 4.
-Let me know about bugs and cool stuff to add, and fell free to improve! 
+
+Let me know about bugs and cool stuff to add, and feel free to improve! 
 
 > website: http://www.babeuf.net
+	
 > twitter: https://twitter.com/_baabeuf
 
 
